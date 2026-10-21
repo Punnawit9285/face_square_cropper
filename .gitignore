@@ -1,0 +1,10 @@
+# Recreated by setup.sh
+.venv/
+models/
+bin/
+
+# Written by run_all.sh
+work/
+
+__pycache__/
+.DS_Store
